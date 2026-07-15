@@ -1,22 +1,25 @@
 class Solution {
-public:
-    void get(vector<int> &candidates, int target , int i ,vector<vector<int>> &ans , vector<int>&sum ){
-        if(target == 0 ){
-            ans.push_back(sum ) ;
-            return ;
+public:  
+    void get(vector<int>& candidates, int target , int i , vector<int>&sum , vector<vector<int>> &answer ){
+        if(target ==0 ){
+            answer.push_back(sum ) ; 
+            return ; 
         }
-        if(i == candidates.size() || target < 0) return ;
-        if (candidates[i] <= target){
+        if(target< 0 || i == candidates.size() ){
+            return ; 
+        }
+        if(candidates[i] <= target ){
             sum.push_back(candidates[i]) ;
-            get(candidates , target - candidates[i] , i , ans , sum ) ;
+            get(candidates , target - candidates[i], i ,sum , answer );
             sum.pop_back() ;
         }
-        get(candidates , target , i+1 , ans , sum ) ;
+        get(candidates , target  , i+1 , sum , answer ) ;
+
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<int> sum ;
-        vector<vector<int>> ans ;
-        get(candidates, target , 0 , ans , sum ) ;
-        return ans ; 
+        vector<vector<int>> answer ;
+        get(candidates , target , 0 , sum ,answer );
+        return answer ;
     }
 };
