@@ -1,7 +1,7 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        map<int  ,int > aloo ;
+        unordered_map<int  ,int > aloo ;
         for(int i = 0 ; i < nums.size() ; i++ ){
             aloo[nums[i]] ++ ;
         }
