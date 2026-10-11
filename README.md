@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/solosurfer-37/LEETCODE/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/solosurfer-37/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/solosurfer-37/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/solosurfer-37/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/solosurfer-37/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/solosurfer-37/LEETCODE/tree/master/0135-candy) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/solosurfer-37/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
