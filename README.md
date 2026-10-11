@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0135-candy](https://github.com/solosurfer-37/LEETCODE/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/solosurfer-37/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/solosurfer-37/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/solosurfer-37/LEETCODE/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
