@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/solosurfer-37/LEETCODE/tree/master/0260-single-number-iii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/solosurfer-37/LEETCODE/tree/master/0695-max-area-of-island) |
+| [0867-transpose-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/solosurfer-37/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/solosurfer-37/LEETCODE/tree/master/0695-max-area-of-island) |
+| [0867-transpose-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/solosurfer-37/LEETCODE/tree/master/0695-max-area-of-island) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
