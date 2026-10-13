@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/solosurfer-37/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/solosurfer-37/LEETCODE/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/solosurfer-37/LEETCODE/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/solosurfer-37/LEETCODE/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
