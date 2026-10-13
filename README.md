@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/solosurfer-37/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/solosurfer-37/LEETCODE/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/solosurfer-37/LEETCODE/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/solosurfer-37/LEETCODE/tree/master/0260-single-number-iii) |
+| [0389-find-the-difference](https://github.com/solosurfer-37/LEETCODE/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/solosurfer-37/LEETCODE/tree/master/0476-number-complement) |
 ## Sorting
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/solosurfer-37/LEETCODE/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/solosurfer-37/LEETCODE/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/solosurfer-37/LEETCODE/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
