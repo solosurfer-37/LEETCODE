@@ -56,16 +56,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/solosurfer-37/LEETCODE/tree/master/0404-sum-of-left-leaves) |
+| [0897-increasing-order-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/solosurfer-37/LEETCODE/tree/master/0404-sum-of-left-leaves) |
+| [0897-increasing-order-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/solosurfer-37/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0695-max-area-of-island](https://github.com/solosurfer-37/LEETCODE/tree/master/0695-max-area-of-island) |
+| [0897-increasing-order-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -150,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/solosurfer-37/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
