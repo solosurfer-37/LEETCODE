@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/solosurfer-37/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/solosurfer-37/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/solosurfer-37/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Search
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/solosurfer-37/LEETCODE/tree/master/0441-arranging-coins) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/solosurfer-37/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/solosurfer-37/LEETCODE/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/solosurfer-37/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/solosurfer-37/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
