@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/solosurfer-37/LEETCODE/tree/master/0260-single-number-iii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/solosurfer-37/LEETCODE/tree/master/0695-max-area-of-island) |
+| [0817-linked-list-components](https://github.com/solosurfer-37/LEETCODE/tree/master/0817-linked-list-components) |
 | [0867-transpose-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/solosurfer-37/LEETCODE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/solosurfer-37/LEETCODE/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/solosurfer-37/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0817-linked-list-components](https://github.com/solosurfer-37/LEETCODE/tree/master/0817-linked-list-components) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/solosurfer-37/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sliding Window
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/solosurfer-37/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0817-linked-list-components](https://github.com/solosurfer-37/LEETCODE/tree/master/0817-linked-list-components) |
 ## Dynamic Programming
 |  |
 | ------- |
