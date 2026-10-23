@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/solosurfer-37/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/solosurfer-37/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/solosurfer-37/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3024-type-of-triangle](https://github.com/solosurfer-37/LEETCODE/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/solosurfer-37/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/solosurfer-37/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3024-type-of-triangle](https://github.com/solosurfer-37/LEETCODE/tree/master/3024-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/solosurfer-37/LEETCODE/tree/master/0441-arranging-coins) |
+| [3024-type-of-triangle](https://github.com/solosurfer-37/LEETCODE/tree/master/3024-type-of-triangle) |
 ## Union-Find
 |  |
 | ------- |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0608-tree-node](https://github.com/solosurfer-37/LEETCODE/tree/master/0608-tree-node) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/solosurfer-37/LEETCODE/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
