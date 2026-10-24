@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/solosurfer-37/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/solosurfer-37/LEETCODE/tree/master/0260-single-number-iii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/solosurfer-37/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0695-max-area-of-island](https://github.com/solosurfer-37/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0817-linked-list-components](https://github.com/solosurfer-37/LEETCODE/tree/master/0817-linked-list-components) |
 | [0867-transpose-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0867-transpose-matrix) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/solosurfer-37/LEETCODE/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/solosurfer-37/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/solosurfer-37/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/solosurfer-37/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
