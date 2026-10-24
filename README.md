@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/solosurfer-37/LEETCODE/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/solosurfer-37/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/solosurfer-37/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/solosurfer-37/LEETCODE/tree/master/0260-single-number-iii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/solosurfer-37/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/solosurfer-37/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Depth-First Search
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0189-rotate-array) |
 | [0357-count-numbers-with-unique-digits](https://github.com/solosurfer-37/LEETCODE/tree/master/0357-count-numbers-with-unique-digits) |
 | [0441-arranging-coins](https://github.com/solosurfer-37/LEETCODE/tree/master/0441-arranging-coins) |
 | [3024-type-of-triangle](https://github.com/solosurfer-37/LEETCODE/tree/master/3024-type-of-triangle) |
