@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/solosurfer-37/LEETCODE/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0189-rotate-array) |
 | [0357-count-numbers-with-unique-digits](https://github.com/solosurfer-37/LEETCODE/tree/master/0357-count-numbers-with-unique-digits) |
 | [0412-fizz-buzz](https://github.com/solosurfer-37/LEETCODE/tree/master/0412-fizz-buzz) |
