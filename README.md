@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/solosurfer-37/LEETCODE/tree/master/0817-linked-list-components) |
 | [0867-transpose-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0896-monotonic-array) |
+| [0912-sort-an-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/solosurfer-37/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0912-sort-an-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0912-sort-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/solosurfer-37/LEETCODE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/solosurfer-37/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/solosurfer-37/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/solosurfer-37/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/solosurfer-37/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/solosurfer-37/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/solosurfer-37/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0912-sort-an-array) |
 ## Database
 |  |
 | ------- |
@@ -268,4 +273,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/solosurfer-37/LEETCODE/tree/master/0319-bulb-switcher) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
