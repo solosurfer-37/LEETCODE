@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/solosurfer-37/LEETCODE/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/solosurfer-37/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/solosurfer-37/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/solosurfer-37/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0817-linked-list-components](https://github.com/solosurfer-37/LEETCODE/tree/master/0817-linked-list-components) |
 ## Dynamic Programming
