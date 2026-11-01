@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/solosurfer-37/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/solosurfer-37/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/solosurfer-37/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/solosurfer-37/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/solosurfer-37/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/solosurfer-37/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/solosurfer-37/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
