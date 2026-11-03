@@ -1,45 +1,43 @@
-void merge(int* nums, int start, int mid, int end) {
-    int size = end - start + 1;
-    int* temp = (int*)malloc(size * sizeof(int));
-    if (!temp) return;
-
-    int i = start;
+void merge(int* nums, int low, int mid, int high) {
+    int i = low;
     int j = mid + 1;
     int k = 0;
+    int size = high - low + 1;
+    int* arr = (int*)malloc(size * sizeof(int));
 
-    while (i <= mid && j <= end) {
+    while (i <= mid && j <= high) {
         if (nums[i] <= nums[j]) {
-            temp[k++] = nums[i++];
+            arr[k++] = nums[i++];
         } else {
-            temp[k++] = nums[j++];
+            arr[k++] = nums[j++];
         }
     }
 
     while (i <= mid) {
-        temp[k++] = nums[i++];
+        arr[k++] = nums[i++];
     }
-    while (j <= end) {
-        temp[k++] = nums[j++];
+
+    while (j <= high) {
+        arr[k++] = nums[j++];
     }
 
     for (int idx = 0; idx < size; idx++) {
-        nums[start + idx] = temp[idx];
+        nums[low + idx] = arr[idx];
     }
 
-    free(temp);
+    free(arr);
 }
 
-void mergeSort(int* nums, int start, int end) {
-    if (start >= end) return;
-    
-    int mid = start + (end - start) / 2;
-    mergeSort(nums, start, mid);
-    mergeSort(nums, mid + 1, end);
-    merge(nums, start, mid, end);
+void sort(int* nums, int low, int high) {
+    if (low >= high) return;
+    int mid = low + (high - low) / 2;
+    sort(nums, low, mid);
+    sort(nums, mid + 1, high);
+    merge(nums, low, mid, high);
 }
 
 int* sortArray(int* nums, int numsSize, int* returnSize) {
-    mergeSort(nums, 0, numsSize - 1);
     *returnSize = numsSize;
+    sort(nums, 0, numsSize - 1);
     return nums;
 }
