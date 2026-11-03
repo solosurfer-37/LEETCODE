@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/solosurfer-37/LEETCODE/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/solosurfer-37/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/solosurfer-37/LEETCODE/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/solosurfer-37/LEETCODE/tree/master/0357-count-numbers-with-unique-digits) |
@@ -257,11 +258,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/solosurfer-37/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/solosurfer-37/LEETCODE/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/solosurfer-37/LEETCODE/tree/master/0397-integer-replacement) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/solosurfer-37/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/solosurfer-37/LEETCODE/tree/master/0397-integer-replacement) |
 ## Bucket Sort
 |  |
