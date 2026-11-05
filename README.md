@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/solosurfer-37/LEETCODE/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/solosurfer-37/LEETCODE/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/solosurfer-37/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/solosurfer-37/LEETCODE/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/solosurfer-37/LEETCODE/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/solosurfer-37/LEETCODE/tree/master/0397-integer-replacement) |
 | [1881-maximum-value-after-insertion](https://github.com/solosurfer-37/LEETCODE/tree/master/1881-maximum-value-after-insertion) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/solosurfer-37/LEETCODE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/solosurfer-37/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/solosurfer-37/LEETCODE/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/solosurfer-37/LEETCODE/tree/master/0397-integer-replacement) |
