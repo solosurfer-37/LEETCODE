@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/solosurfer-37/LEETCODE/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/solosurfer-37/LEETCODE/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/solosurfer-37/LEETCODE/tree/master/0397-integer-replacement) |
+| [0461-hamming-distance](https://github.com/solosurfer-37/LEETCODE/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/solosurfer-37/LEETCODE/tree/master/0476-number-complement) |
 ## Sorting
 |  |
