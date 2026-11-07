@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/solosurfer-37/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/solosurfer-37/LEETCODE/tree/master/0441-arranging-coins) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/solosurfer-37/LEETCODE/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/solosurfer-37/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/solosurfer-37/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/solosurfer-37/LEETCODE/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/solosurfer-37/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/solosurfer-37/LEETCODE/tree/master/0507-perfect-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/solosurfer-37/LEETCODE/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [3024-type-of-triangle](https://github.com/solosurfer-37/LEETCODE/tree/master/3024-type-of-triangle) |
 ## Union-Find
 |  |
