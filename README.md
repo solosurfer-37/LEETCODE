@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/solosurfer-37/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0328-odd-even-linked-list](https://github.com/solosurfer-37/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/solosurfer-37/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [0707-design-linked-list](https://github.com/solosurfer-37/LEETCODE/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/solosurfer-37/LEETCODE/tree/master/0817-linked-list-components) |
 ## Dynamic Programming
 |  |
@@ -340,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/solosurfer-37/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/solosurfer-37/LEETCODE/tree/master/0494-target-sum) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/solosurfer-37/LEETCODE/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
