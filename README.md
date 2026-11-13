@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/solosurfer-37/LEETCODE/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/solosurfer-37/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/solosurfer-37/LEETCODE/tree/master/0260-single-number-iii) |
+| [0322-coin-change](https://github.com/solosurfer-37/LEETCODE/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/solosurfer-37/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0474-ones-and-zeroes](https://github.com/solosurfer-37/LEETCODE/tree/master/0474-ones-and-zeroes) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/solosurfer-37/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0130-surrounded-regions](https://github.com/solosurfer-37/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/solosurfer-37/LEETCODE/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/solosurfer-37/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/solosurfer-37/LEETCODE/tree/master/0695-max-area-of-island) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/solosurfer-37/LEETCODE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/solosurfer-37/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/solosurfer-37/LEETCODE/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/solosurfer-37/LEETCODE/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/solosurfer-37/LEETCODE/tree/master/0397-integer-replacement) |
 | [0474-ones-and-zeroes](https://github.com/solosurfer-37/LEETCODE/tree/master/0474-ones-and-zeroes) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/solosurfer-37/LEETCODE/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/solosurfer-37/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/solosurfer-37/LEETCODE/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -349,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/solosurfer-37/LEETCODE/tree/master/0707-design-linked-list) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/solosurfer-37/LEETCODE/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
