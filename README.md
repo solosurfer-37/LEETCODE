@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/solosurfer-37/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/solosurfer-37/LEETCODE/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/solosurfer-37/LEETCODE/tree/master/0075-sort-colors) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/solosurfer-37/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/solosurfer-37/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/solosurfer-37/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/solosurfer-37/LEETCODE/tree/master/0383-ransom-note) |
