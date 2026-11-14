@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/solosurfer-37/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/solosurfer-37/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3024-type-of-triangle](https://github.com/solosurfer-37/LEETCODE/tree/master/3024-type-of-triangle) |
+| [3364-minimum-positive-sum-subarray](https://github.com/solosurfer-37/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/solosurfer-37/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/solosurfer-37/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/solosurfer-37/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/solosurfer-37/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Enumeration
 |  |
 | ------- |
@@ -358,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/solosurfer-37/LEETCODE/tree/master/0322-coin-change) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/solosurfer-37/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
