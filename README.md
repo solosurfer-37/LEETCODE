@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/solosurfer-37/LEETCODE/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/solosurfer-37/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0817-linked-list-components](https://github.com/solosurfer-37/LEETCODE/tree/master/0817-linked-list-components) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/solosurfer-37/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/solosurfer-37/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sliding Window
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/solosurfer-37/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/solosurfer-37/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/solosurfer-37/LEETCODE/tree/master/0474-ones-and-zeroes) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/solosurfer-37/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1881-maximum-value-after-insertion](https://github.com/solosurfer-37/LEETCODE/tree/master/1881-maximum-value-after-insertion) |
 ## Counting
 |  |
