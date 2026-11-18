@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/solosurfer-37/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/solosurfer-37/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1881-maximum-value-after-insertion](https://github.com/solosurfer-37/LEETCODE/tree/master/1881-maximum-value-after-insertion) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/solosurfer-37/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Counting
 |  |
 | ------- |
