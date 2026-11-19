@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/solosurfer-37/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/solosurfer-37/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/solosurfer-37/LEETCODE/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/solosurfer-37/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/solosurfer-37/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/solosurfer-37/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/solosurfer-37/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/solosurfer-37/LEETCODE/tree/master/0383-ransom-note) |
@@ -369,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/solosurfer-37/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/solosurfer-37/LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
