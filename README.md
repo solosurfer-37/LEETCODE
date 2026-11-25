@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/solosurfer-37/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/solosurfer-37/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/solosurfer-37/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/solosurfer-37/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/solosurfer-37/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/solosurfer-37/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Greedy
