@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/solosurfer-37/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/solosurfer-37/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/solosurfer-37/LEETCODE/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/solosurfer-37/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/solosurfer-37/LEETCODE/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/solosurfer-37/LEETCODE/tree/master/0397-integer-replacement) |
 | [1881-maximum-value-after-insertion](https://github.com/solosurfer-37/LEETCODE/tree/master/1881-maximum-value-after-insertion) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/solosurfer-37/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/solosurfer-37/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/solosurfer-37/LEETCODE/tree/master/0494-target-sum) |
 | [3693-climbing-stairs-ii](https://github.com/solosurfer-37/LEETCODE/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/solosurfer-37/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Memoization
 |  |
 | ------- |
